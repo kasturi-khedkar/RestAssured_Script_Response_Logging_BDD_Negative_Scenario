@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8332" started-at="2020-10-27T06:29:12Z" finished-at="2020-10-27T06:29:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8332" started-at="2020-10-27T06:29:12Z" finished-at="2020-10-27T06:29:20Z">
+      <class name="StepDefinitions.TestRunner">
+        <test-method status="PASS" signature="api_for_foreign_Exchange()[pri:0, instance:StepDefinitions.TestRunner@5980311d]" name="api_for_foreign_Exchange" duration-ms="829" started-at="2020-10-27T06:29:12Z" finished-at="2020-10-27T06:29:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- api_for_foreign_Exchange -->
+        <test-method status="PASS" signature="posted_with_correct_Information()[pri:0, instance:StepDefinitions.TestRunner@5980311d]" name="posted_with_correct_Information" duration-ms="4904" started-at="2020-10-27T06:29:12Z" finished-at="2020-10-27T06:29:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- posted_with_correct_Information -->
+        <test-method status="PASS" signature="validate_postive_response_code_received()[pri:0, instance:StepDefinitions.TestRunner@5980311d]" name="validate_postive_response_code_received" duration-ms="2564" started-at="2020-10-27T06:29:17Z" finished-at="2020-10-27T06:29:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_postive_response_code_received -->
+      </class> <!-- StepDefinitions.TestRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
